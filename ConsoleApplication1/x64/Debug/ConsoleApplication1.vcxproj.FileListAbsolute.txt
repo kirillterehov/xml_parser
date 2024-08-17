@@ -1,0 +1,2 @@
+D:\Kirill.documents\c++\test_boost\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\Kirill.documents\c++\test_boost_1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
